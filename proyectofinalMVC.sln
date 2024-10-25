@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyectofinalMVC", "proyectofinalMVC\proyectofinalMVC.csproj", "{FFB74F9A-A21A-446F-9799-D64EBB60BE44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "proyectofinalMVC", "proyectofinalMVC\proyectofinalMVC.csproj", "{FFB74F9A-A21A-446F-9799-D64EBB60BE44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyectofinalMVC.Datos", "proyectofinalMVC.Datos\proyectofinalMVC.Datos.csproj", "{F95285C2-C1AB-4EE8-9F05-331DE0D4FAC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "proyectofinalMVC.Datos", "proyectofinalMVC.Datos\proyectofinalMVC.Datos.csproj", "{F95285C2-C1AB-4EE8-9F05-331DE0D4FAC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyectofinalMVC.Negocios", "proyectofinalMVC.Negocios\proyectofinalMVC.Negocios.csproj", "{99555924-F389-4A7A-BD6B-365D72277753}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "proyectofinalMVC.Negocios", "proyectofinalMVC.Negocios\proyectofinalMVC.Negocios.csproj", "{99555924-F389-4A7A-BD6B-365D72277753}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
